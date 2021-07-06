@@ -6,3 +6,4 @@ print("cyborg")
 print("aquamen")
 
 print("novo filme")
+print("diretor")
